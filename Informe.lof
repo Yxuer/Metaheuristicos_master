@@ -1,0 +1,9 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces GA vs SA: best fitness after 500000 evaluations cap\relax }}{8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {GA vs SA comparison on best fitness obtained after 500000 evaluations cap, per-seed}}}{8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Wilcoxon paired test result for GA vs SA on best fitness after 500000 evaluations cap}}}{8}
+\contentsline {figure}{\numberline {2}{\ignorespaces GA vs SA: number of evaluations until reaching optimum\relax }}{9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {GA vs SA comparison on number of evaluations until reaching optimum, per-seed}}}{9}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Wilcoxon paired test result for GA vs SA on number of evaluations for optimum}}}{9}
+\contentsline {figure}{\numberline {3}{\ignorespaces GA vs SA: execution time until reaching optimum\relax }}{10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {GA vs SA comparison on execution time until reaching optimum, per-seed}}}{10}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Wilcoxon paired test result for GA vs SA on execution time for optimum}}}{10}
