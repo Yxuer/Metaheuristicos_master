@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.30)  18 NOV 2019 11:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.30)  18 NOV 2019 12:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -320,20 +320,20 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<../UIMP.jpg, id=1, 632.3625pt x 321.2pt>
-File: ../UIMP.jpg Graphic file (type jpg)
-<use ../UIMP.jpg>
-Package pdftex.def Info: ../UIMP.jpg  used on input line 26.
+<UIMP.jpg, id=1, 632.3625pt x 321.2pt>
+File: UIMP.jpg Graphic file (type jpg)
+<use UIMP.jpg>
+Package pdftex.def Info: UIMP.jpg  used on input line 26.
 (pdftex.def)             Requested size: 375.80544pt x 190.88847pt.
-<../AEPIA.png, id=2, 602.25pt x 111.41624pt>
-File: ../AEPIA.png Graphic file (type png)
-<use ../AEPIA.png>
-Package pdftex.def Info: ../AEPIA.png  used on input line 27.
+<AEPIA.png, id=2, 602.25pt x 111.41624pt>
+File: AEPIA.png Graphic file (type png)
+<use AEPIA.png>
+Package pdftex.def Info: AEPIA.png  used on input line 27.
 (pdftex.def)             Requested size: 375.80544pt x 69.52617pt.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../UIMP.jpg> <../AEPIA.png
->] (./Informe.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./UIMP.jpg> <./AEPIA.png>]
+ (./Informe.toc)
 \tf@toc=\write3
 \openout3 = `Informe.toc'.
 
@@ -349,7 +349,8 @@ Package pdftex.def Info: ../AEPIA.png  used on input line 27.
 \tf@lot=\write6
 \openout6 = `Informe.lot'.
 
- [4]
+
+[4]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 58.
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -461,19 +462,25 @@ ados/time_output/img/test.png>]
 LaTeX Warning: Float too large for page by 16.36967pt on input line 368.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--377
+Underfull \hbox (badness 10000) in paragraph at lines 378--379
 []\OT1/cmr/m/n/10 J. E. Beasley, \OT1/cmr/m/it/10 Mul-ti-di-men-sional knap-sac
 k prob-lem\OT1/cmr/m/n/10 . \OT1/cmtt/m/n/10 http://people.brunel.ac.uk/~
  []
 
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ± in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+[]\OT1/cmr/m/n/10 L. Gon-za-lez, \OT1/cmr/m/it/10 Code and re-sults for the Met
+a-heuris-tics as-sign-ment\OT1/cmr/m/n/10 .
+ []
+
 [11] [12] (./Informe.aux) ) 
 Here is how much of TeX's memory you used:
- 4448 strings out of 492982
- 67458 string characters out of 6134895
- 170523 words of memory out of 5000000
- 7942 multiletter control sequences out of 15000+600000
+ 4449 strings out of 492982
+ 67455 string characters out of 6134895
+ 170526 words of memory out of 5000000
+ 7944 multiletter control sequences out of 15000+600000
  9516 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,13n,49p,922b,373s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -488,7 +495,7 @@ sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share
 -dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Informe.pdf (13 pages, 337046 bytes).
+Output written on Informe.pdf (13 pages, 337625 bytes).
 PDF statistics:
  134 PDF objects out of 1000 (max. 8388607)
  86 compressed objects within 1 object stream
